@@ -1,25 +1,32 @@
 # 🛡️ PATENT CLAIMS
 ### Systems and Methods for Pre-Semantic Trajectory Governance in Artificial Intelligence Models
 
-<!-- Primary Patent Row -->
+<!-- Core Patent Identity -->
 [![Patent UK 2600765.8](https://img.shields.io/badge/🛡️%20Patent-UK%202600765.8-red.svg?style=for-the-badge)](https://www.gov.uk/search-for-patent)
-[![Patent Claims](https://img.shields.io/badge/Claims-12%20Independent-darkred.svg?style=for-the-badge)](docs/patent/PATENT_CLAIMS.md)
+[![12 Claims](https://img.shields.io/badge/Claims-12%20Independent-darkred.svg?style=for-the-badge)](docs/patent/PATENT_CLAIMS.md)
 [![IP Protected](https://img.shields.io/badge/IP-Protected%20Technology-red.svg?style=for-the-badge)](docs/patent/)
 
 <!-- Trademark Row -->
-[![GuardianOS](https://img.shields.io/badge/™-GuardianOS-9c27b0.svg?style=for-the-badge)](https://github.com/morrison-invariant)
-[![Morrison Stack](https://img.shields.io/badge/™-Morrison%20Stack-9c27b0.svg?style=for-the-badge)](https://github.com/morrison-invariant)
-[![PSI](https://img.shields.io/badge/™-PSI%20Framework-9c27b0.svg?style=for-the-badge)](https://github.com/morrison-invariant)
+[![GuardianOS™](https://img.shields.io/badge/™-GuardianOS-9c27b0.svg?style=for-the-badge)](https://github.com/morrison-invariant)
+[![Morrison Stack™](https://img.shields.io/badge/™-Morrison%20Stack-9c27b0.svg?style=for-the-badge)](https://github.com/morrison-invariant)
+[![PSI™](https://img.shields.io/badge/™-PSI-9c27b0.svg?style=for-the-badge)](https://github.com/morrison-invariant)
+[![OIE™](https://img.shields.io/badge/™-OIE-9c27b0.svg?style=for-the-badge)](https://github.com/morrison-invariant)
+[![GIT™](https://img.shields.io/badge/™-GIT-9c27b0.svg?style=for-the-badge)](https://github.com/morrison-invariant)
 
-<!-- Legal Row -->
+<!-- Status & Legal -->
+[![Status](https://img.shields.io/badge/Status-Application%20Filed-red.svg)](https://www.gov.uk/search-for-patent)
+[![Filed](https://img.shields.io/badge/Filed-January%2014%2C%202026-darkred.svg)](docs/patent/)
+[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-UK%20IPO-darkred.svg)](https://www.gov.uk/government/organisations/intellectual-property-office)
+
+<!-- Coverage -->
+[![AI Coverage](https://img.shields.io/badge/Covers-LLMs%20%7C%20Transformers-00bcd4.svg)](docs/patent/PATENT_CLAIMS.md#claim-2)
+[![Substrate Independent](https://img.shields.io/badge/Covers-Substrate%20Independent-00bcd4.svg)](docs/patent/PATENT_CLAIMS.md#claim-11)
+[![Multi-Agent](https://img.shields.io/badge/Covers-Multi--Agent%20Systems-00bcd4.svg)](docs/patent/PATENT_CLAIMS.md#claim-8)
+
+<!-- Legal Protection -->
 [![Copyright](https://img.shields.io/badge/©%202026-Davarn%20Morrison-black.svg)](LICENSE)
 [![All Rights Reserved](https://img.shields.io/badge/Rights-All%20Rights%20Reserved-black.svg)](LICENSE)
-[![Commercial License Required](https://img.shields.io/badge/Commercial-License%20Required-red.svg)](mailto:davarn.trades@gmail.com)
-
----
-
-**© 2026 Davarn Morrison — All Rights Reserved**  
-**GuardianOS™ • Morrison Stack™ • PSI™ • OIE™ • GIT™**
+[![Commercial License](https://img.shields.io/badge/Commercial-License%20Required-red.svg)](mailto:davarn.trades@gmail.com)
 
 ---
 
@@ -172,6 +179,3 @@ and the invariant is enforced over the continuous-time reachable set.
 ---
 
 # END OF CLAIMS
-
-
-⸻
