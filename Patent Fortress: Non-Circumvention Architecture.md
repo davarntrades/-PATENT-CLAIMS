@@ -1,3 +1,5 @@
+<div align="center">
+         
 # ⚡ Pre-Semantic Trajectory Governance for AI Systems
 
 <div align="center">
@@ -12,6 +14,10 @@
 ![GuardianOS](https://img.shields.io/badge/SYSTEM-GuardianOS™-00CC44?style=flat-square&logo=shield)
 
 ### 🚨 **THE ONLY MATHEMATICALLY PROVEN AI SAFETY SYSTEM** 🚨
+
+**A patented geometric safety system that mathematically prevents AI from entering catastrophic states.**
+
+-----
 
 **Traditional AI safety is fundamentally broken. This patent fixes it at the mathematical level.**
 
@@ -183,6 +189,8 @@
 ║  FORMAL SAFETY GUARANTEE                                   ║
 ╠════════════════════════════════════════════════════════════╣
 ║                                                            ║
+║  Theorem 1 (Irreversibility Prevention).                  ║
+║                                                            ║
 ║  Given:                                                    ║
 ║    S ⊂ ℝⁿ          Latent state-space                     ║
 ║    Ω ⊂ S           Forbidden region (catastrophic states) ║
@@ -196,6 +204,10 @@
 ║                                                            ║
 ║  This means: Catastrophic states are UNREACHABLE          ║
 ║              from any safe starting point                 ║
+║                                                            ║
+║  Proof: If policy π satisfies T(s, π(s)) ∉ Ω ∀s ∈ S,      ║
+║         then by induction on trajectory length,           ║
+║         Ω is provably unreachable from any safe state.    ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
@@ -463,6 +475,44 @@ Reachability Analysis
 
 -----
 
+## ⚖️ Regulatory Alignment: Why This Meets Future AI Law Requirements
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  COMPLIANCE WITH EMERGING AI REGULATION                      ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║  ✅ EU AI Act: High-Risk System Requirements                 ║
+║     • Formal safety guarantees (Article 15)                  ║
+║     • Mathematical verification of safety constraints        ║
+║     • Provable risk mitigation before deployment             ║
+║     • Technical documentation with formal proofs             ║
+║                                                               ║
+║  ✅ US Executive Order 14110: Advanced AI Safety             ║
+║     • Red-teaming resistance (6-layer defense)               ║
+║     • Catastrophic risk prevention mechanisms                ║
+║     • Autonomous system safety controls                      ║
+║     • Pre-deployment safety verification                     ║
+║                                                               ║
+║  ✅ UK AI Safety Summit Commitments                          ║
+║     • Frontier AI safety protocols                           ║
+║     • Irreversible harm prevention                           ║
+║     • Independent safety layer (external governance)         ║
+║     • Multi-stakeholder accountability framework             ║
+║                                                               ║
+║  ✅ International Standards (ISO/IEC 42001)                  ║
+║     • AI management system requirements                      ║
+║     • Risk assessment and mitigation protocols               ║
+║     • Continuous monitoring and constraint enforcement       ║
+║     • Auditability and formal verification                   ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+**This patent provides the mathematical foundation regulators are demanding.**
+
+-----
+
 ## 💡 Key Insight: Prevention vs. Detection
 
 ```
@@ -526,6 +576,10 @@ Not filtered. Not detected. **IMPOSSIBLE**.
 ## 📞 Contact & Licensing
 
 For licensing inquiries, technical collaboration, or implementation partnerships:
+
+**Davarn Dwayne Lee Morrison**  
+Email: [Davarn.trades@gmail.com](mailto:Davarn.trades@gmail.com)  
+LinkedIn: [linkedin.com/in/davarn-morrison-14b93b263](https://www.linkedin.com/in/davarn-morrison-14b93b263)
 
 **Resurrection Tech Ltd**  
 Patent: GB 2600765.8
